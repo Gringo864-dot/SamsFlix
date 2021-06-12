@@ -18,8 +18,7 @@
         </ul>
     </nav>
     <main>
-        <h2>Welcome To SamsFlix</h2>
-        <p>Best Movies of the Week</p>
+        <h2>Get all Movies</h2>
     </main>
     <footer id="footer">
         <div>
